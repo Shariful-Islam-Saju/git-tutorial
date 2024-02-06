@@ -10,5 +10,10 @@ h1 {
   color: white;
   padding: 14px 1px;
   border-radius: 5px;
-}
+} 
 
+p {
+  display: flex;
+  color: white;
+  text-align: center;
+}
