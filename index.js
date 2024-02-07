@@ -1,3 +1,3 @@
 
 console.log("Hello World!");
-console.log("This is version 8");
+console.log("New lesson begin.");
