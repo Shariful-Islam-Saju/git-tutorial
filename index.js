@@ -1,3 +1,3 @@
 
 console.log("Hello World!");
-console.log("New lesson begin.");
+console.log("New feature1");
